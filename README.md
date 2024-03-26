@@ -4,6 +4,8 @@ The Enhanced Performance Tracking System (ePTS) is a comprehensive, user-friendl
 
 ## Features
 
+Testing the Github history
+
 - **Device Compatibility:** Designed with a mobile-first approach, ePTS is responsive across devices:
   - **Phone:** Simplified layout optimized for mobile devices, focusing on essential features.
   - **Tablet:** Exploits the larger screen size to display additional elements without sacrificing usability.
